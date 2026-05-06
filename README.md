@@ -2,6 +2,12 @@
 
 A FastAPI project for tracking internships, scholarships, bootcamps, hackathons, events, fellowships, volunteer programs, and competitions.
 
+## Project Purpose
+
+The purpose of this project is to provide a simple REST API for collecting and managing useful opportunities in one place. Users can store opportunity details, search and filter them, update existing records, delete old records, and view basic statistics.
+
+This project also demonstrates how to build a backend API with FastAPI, validate data with Pydantic, containerize the application with Docker, publish the code on GitHub, and deploy it online with Render.
+
 Live API:
 
 ```text
