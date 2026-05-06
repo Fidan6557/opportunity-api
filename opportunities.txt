@@ -1,0 +1,1 @@
+{"title": "AI Hackathon 2026", "organization": "TechHub", "category": "hackathon", "location": "Baku", "deadline": "2026-05-15", "description": "Opportunity from TechHub.", "source_url": "https://example.com/", "is_remote": true, "application_fee": 0.0, "tags": [], "status": "open", "id": "aec8efb8-e678-4ba9-b595-3d16eca62bab"}
